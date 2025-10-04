@@ -2,9 +2,6 @@
 # Doodle to Melody: Interactive Drawing Meets Music
 
 **Author:** Jiahao Wu  
-**GitHub Repository:** [https://github.com/PIPIXIALETSGO/DoodleToMelody/edit/main]
-
----
 
 ## 📜 Abstract
 
